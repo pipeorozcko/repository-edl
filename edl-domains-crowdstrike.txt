@@ -1,5 +1,3 @@
-#External dynamic list for Crowdstrike
-
 ts01-b.cloudsink.net
 lfodown01-b.cloudsink.net
 lfoup01-b.cloudsink.net
